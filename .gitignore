@@ -1,0 +1,5 @@
+#drop everything in here that I need but should be in git
+notforgithub
+
+#you dont want these complied files
+*.pyc

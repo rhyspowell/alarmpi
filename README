@@ -1,0 +1,13 @@
+THis is the ongoing project for building an Alarm Clock using a raspberry Pi.
+
+Yes, lots of this is out there already but I started it a very very long time again and have now decided that I have to focus on getting it completed.
+
+This will include
+Internet radio
+Local media
+Weather reporting
+travel reporting
+
+The internet radio is done but I cant find the code at the moment to add in here. Weather is the thing I have most recently been looking at, after a lot of diging I have used the Met Office, feel free to get your own key, drop it in and it will spit stuff out.
+
+If anyone has written a driver for flite to work with pyttsx, could you please let me know. Fetival just isnt up to the job and it might help me get things completed much quicker
